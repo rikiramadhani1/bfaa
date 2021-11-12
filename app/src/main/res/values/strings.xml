@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+
+    <string name="location">Location : %s</string>
+    <string name="company">Company : %s</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Find awesome developer</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="name">Name</string>
+    <string name="no_data">Data tidak ditemukan</string>
+    <string name="on_dark_mode">Press icon \nfor <b>dark mode</b></string>
+    <string name="on_light_mode">Press icon \nfor <b>mode terang</b></string>
+    <string name="category">Category</string>
+    <string name="followed">Followed</string>
+
+
+    <string name="follow">Follow</string>
+    <string name="go_to_github">Go to Github</string>
+</resources>
